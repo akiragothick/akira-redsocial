@@ -1,6 +1,6 @@
 # Akira Red Social
 
-SPA created with the svelte framework
+SPA created with the svelte framework [https://akira-redsocial.now.sh/](https://akira-redsocial.now.sh/) 
 
 ## Getting Started
 
