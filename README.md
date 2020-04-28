@@ -1,10 +1,12 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# Akira Red Social
 
----
+SPA created with the svelte framework
 
-# svelte app
+## Getting Started
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
@@ -14,7 +16,6 @@ cd svelte-app
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
-
 
 ## Get started
 
@@ -36,7 +37,7 @@ Navigate to [localhost:5000](http://localhost:5000). You should see your app run
 By default, the server will only respond to requests from localhost. To allow connections from other computers, edit the `sirv` commands in package.json to include the option `--host 0.0.0.0`.
 
 
-## Building and running in production mode
+### Building and running in production mode
 
 To create an optimised version of the app:
 
@@ -91,3 +92,11 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+
+## Authors
+
+* **Ernesto Vargas** - *Initial work* - [AkiraGothick](https://github.com/akiragothick)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
