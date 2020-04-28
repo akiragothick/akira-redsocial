@@ -35,7 +35,7 @@
       ]
     },
     {
-      username: "Grindelwald",
+      username: "Gilgamesh",
       avatar:
         "https://scontent.flim10-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/87816834_2690213021025739_4684852229423759360_n.jpg?_nc_cat=104&_nc_sid=dbb9e7&_nc_eui2=AeFgTFpr4mky3eR6IvLm73E1HCzMPFpKyUIcLMw8WkrJQhcZP4G_ECYR9FdW7IoSmIQ&_nc_ohc=TTqMgtpfx5oAX_fkiuO&_nc_ht=scontent.flim10-1.fna&oh=3d0edc9aaadea0604c34eefa10461b12&oe=5ECBA415",
       location: "Perú",
